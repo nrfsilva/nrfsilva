@@ -22,7 +22,7 @@ I'm an Agronomist, MSc and PhD Candidate in Remote Sensing and GIS Analyst. In t
 <br />
 
 ### 📚 Portfolio
-**Access here:** [Link](https://github.com/nrfsilva/portfolio) 
+**Technical Projects and Academic Studies:** [Access here](https://github.com/nrfsilva/portfolio) 
 
 <!-- ### 📊 Statistics -->
 <!-- | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrfsilva&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-<!-- <!-- cards.vercel.app/api/cards/most-commit-language?username=nrfsilva&theme=tokyonight) | -->
