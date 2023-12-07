@@ -1,6 +1,6 @@
 ### Nildson Silva ###
 
-I'm an Agronomist, MSc and PhD Candidate in Remote Sensing and GIS Analyst. In my PhD, I have used spatial dynamic modeling to study the soybean supply chain in Brazil and its dynamics in the face of different territorial management mechanisms. I am interested in topics related to data science, land use and land cover change, remote sensing, geoprocessing, digital image processing, spatio-temporal dynamics of crops, data modeling, programming, time-series analysis, agrometeorology, and statistics.
+I'm an Agronomist, MSc and PhD Candidate in Remote Sensing and GIS Analyst. In my PhD, I have used spatial dynamic modeling to study the soybean supply chain in Brazil and its dynamics in the face of different territorial management mechanisms. Also, I have interested in topics related to data science, land use and land cover change, remote sensing, geoprocessing, digital image processing, spatio-temporal dynamics of crops, data modeling, programming, time-series analysis, agrometeorology, and statistics.
 
 In this space I will share a lit bit of my developed projects and studies. Unfortunately, sometimes, I can not provide some codes, but I will explain the main results and share the publication.
 
