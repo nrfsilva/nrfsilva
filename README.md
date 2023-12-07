@@ -18,7 +18,7 @@ I'm an Agronomist, MSc and PhD Candidate in Remote Sensing and GIS Analyst. In t
   <img alt="ArcGIS Pro" src="https://img.shields.io/badge/-ArcGIS_Pro-108300?style=flat&logo=arcgispro&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-2B5B84?style=flat&logo=linux&logoColor=white" />
   <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-2B5B84?style=flat&logo=macos&logoColor=white" />
-</p>
+</p> 
 <br />
 
 ### 📚 Portfolio
