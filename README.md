@@ -26,7 +26,7 @@ In this space I will share a lit bit of my developed projects and studies. Unfor
 ### 📚 Portfolio
 **Technical Projects and Academic Studies:** [Access here](https://github.com/nrfsilva/portfolio) 
 
-### ✉️ 
+### ✉️ Contact
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-2B5B84?style=flat&logo=linkedin&logoColor=white" />
 
 <!-- ### 📊 Statistics -->
